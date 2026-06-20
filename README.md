@@ -88,3 +88,7 @@ I am preparing the public launch of my portfolio and the `index-ai` proposal.
 The portfolio will document the projects behind this work: Meteosure, Clausis, Prospector, Deployment Blueprint, env-sync, zod-config, and index-ai-validator.
 
 The goal is not to present experiments as traction. The goal is to show shipped work, clear engineering judgment, and honest status.
+
+## Writing
+
+- [I Built a CLI to Stop Missing Env Vars from Breaking Deployments](https://dev.to/jordachmakaya/i-built-a-cli-to-stop-missing-env-vars-from-breaking-deployments-59ke)
